@@ -1,0 +1,14 @@
+layout_spectrum: 0.5053763
+color:
+  saturation: 0.4820789
+  brandStrength: 0.564828
+  lightness: 0.453405
+  brandColors:
+    - '#BDBFC6'
+    - '#BDB390'
+    - '#201D17'
+    - '#6E2717'
+    - '#A3775C'
+  rhythmicContrast: 0.4767025
+typography_spectrum: 0.8799283
+name: Ladograd
