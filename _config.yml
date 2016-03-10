@@ -1,3 +1,7 @@
+name: Ladograd
+favicon: null
+layout_spectrum: 0.5053763
+typography_spectrum: 0.8405018
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.8405018
+title: У вкуса есть имя
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4820789
-  brandStrength: 0.5376344
-  lightness: 0.453405
   brandColors:
     - '#0C0F0B'
     - '#FFFFFF'
     - '#64665C'
     - '#ABA29B'
     - '#880107'
+  brandStrength: 0.5376344
+  lightness: 0.453405
+  saturation: 0.4820789
   rhythmicContrast: 0.4767025
-layout_spectrum: 0.5053763
-name: Ladograd
+purpose: []
