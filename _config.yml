@@ -1,14 +1,26 @@
-layout_spectrum: 0.5053763
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.8405018
 color:
   saturation: 0.4820789
-  brandStrength: 0.564828
+  brandStrength: 0.5376344
   lightness: 0.453405
   brandColors:
-    - '#BDBFC6'
-    - '#BDB390'
-    - '#201D17'
-    - '#6E2717'
-    - '#A3775C'
+    - '#0C0F0B'
+    - '#FFFFFF'
+    - '#64665C'
+    - '#ABA29B'
+    - '#880107'
   rhythmicContrast: 0.4767025
-typography_spectrum: 0.8799283
+layout_spectrum: 0.5053763
 name: Ladograd
